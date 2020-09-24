@@ -27,6 +27,20 @@
       "selectedAttraction": "Where Kurt Cobain Lived in a Refrigerator Box",
       "nameType": "Romance 101",
       "id": 21
+    },
+    {
+      "selectedPark": "Channel Islands National Park",
+      "selectedEat": "Occidental Grill & Seafood",
+      "selectedAttraction": "Fountain of Youth",
+      "nameType": "Bobs Holiday",
+      "id": 22
+    },
+    {
+      "selectedPark": "Natchez Trace Parkway",
+      "selectedEat": "Buckhorn Exchange",
+      "selectedAttraction": "Mini Statue of Liberty",
+      "nameType": "Holiday 2020",
+      "id": 23
     }
   ]
 }
